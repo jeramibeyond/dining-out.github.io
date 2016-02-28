@@ -425,9 +425,9 @@ body {
 @media (min-width: 1001px) {
 }
 .thumbnail {
-	width: 100px;
+	width: 200px;
 	border-radius: 200px;
-	height: 100px;
+	height: 200px;
 	margin-left: auto;
 }
 .thumbnail_align {
